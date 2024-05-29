@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "Isabelle-Layon",
     "description": "Lab 8 PWA",
-    "start_url": "http://127.0.0.1:5500/index.html",
+    "start_url": "https://ilayon.github.io/Lab8-Starter/",
     "display": "browser",
     "background_color": "white",
     "theme_color": "white",
