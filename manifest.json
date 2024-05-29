@@ -3,7 +3,7 @@
     "short_name": "Isabelle-Layon",
     "description": "Lab 8 PWA",
     "start_url": "https://ilayon.github.io/Lab8-Starter/",
-    "display": "browser",
+    "display": "fullscreen",
     "background_color": "white",
     "theme_color": "white",
     "icons": [
