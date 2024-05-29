@@ -2,10 +2,10 @@
     "name": "Lab8-Starter",
     "short_name": "Isabelle-Layon",
     "description": "Lab 8 PWA",
-    "start_url": "http://127.0.0.1:5500/index.html",
-    "display": "browser",
-    "background_color": "white",
-    "theme_color": "white",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
